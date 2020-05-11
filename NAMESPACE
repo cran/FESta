@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "axis", "box", "mtext", "par", "plot")
+importFrom("stats", "var")
+
